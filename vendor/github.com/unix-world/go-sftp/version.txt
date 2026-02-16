@@ -1,0 +1,8 @@
+module github.com/pkg/sftp
+
+go 1.22
+
+unixman: fixes:
+    * go.mod, downgrade from go 1.23 to 1.22
+    * removed test files
+

@@ -11,7 +11,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/pkg/sftp"
+//	"github.com/pkg/sftp"
+	sftp "github.com/unix-world/go-sftp"
+
 	"golang.org/x/crypto/ssh"
 )
 

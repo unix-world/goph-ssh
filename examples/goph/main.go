@@ -16,7 +16,8 @@ import (
 
 //	"github.com/melbahja/goph"
 	"github.com/unix-world/goph-ssh"
-	"github.com/pkg/sftp"
+//	"github.com/pkg/sftp"
+	sftp "github.com/unix-world/go-sftp"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/terminal"
 )
