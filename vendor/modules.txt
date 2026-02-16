@@ -10,7 +10,7 @@ github.com/unix-world/go-sftp
 github.com/unix-world/go-sftp/internal/encoding/ssh/filexfer
 github.com/unix-world/go-sftp/internal/encoding/ssh/filexfer/openssh
 # golang.org/x/crypto v0.48.0
-## explicit; go 1.24.0
+## explicit; go 1.22
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/chacha20
 golang.org/x/crypto/curve25519
@@ -22,11 +22,11 @@ golang.org/x/crypto/ssh/internal/bcrypt_pbkdf
 golang.org/x/crypto/ssh/knownhosts
 golang.org/x/crypto/ssh/terminal
 # golang.org/x/sys v0.41.0
-## explicit; go 1.24.0
+## explicit; go 1.22
 golang.org/x/sys/cpu
 golang.org/x/sys/plan9
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 # golang.org/x/term v0.40.0
-## explicit; go 1.24.0
+## explicit; go 1.22
 golang.org/x/term
